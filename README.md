@@ -1,5 +1,6 @@
 ## 大模型部署实战（二）——Ziya-BLIP2-14B-Visual
 原文链接：[http://www.yourmetaverse.cn/llm/208/](http://www.yourmetaverse.cn/llm/208/)
+
 Ziya-Visual多模态大模型基于姜子牙通用大模型V1训练，具有视觉问答和对话能力。今年3月份OpenAI发布具有识图能力的多模态大模型GPT-4，遗憾的是，时至今日绝大部分用户也都还没有拿到GPT-4输入图片的权限，Ziya-Visual参考了Mini-GPT4、LLaVA等优秀的开源实现，补齐了Ziya的识图能力，使中文用户群体可以体验到结合视觉和语言两大模态的大模型的卓越能力。本文主要用于Ziya-LLaMA-13B的本地部署。
 
 在线体验地址：
